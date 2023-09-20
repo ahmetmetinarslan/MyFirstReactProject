@@ -1,4 +1,4 @@
-# MyFirstReactProject
+# searchReact
 Unsplash API ile React Arama Uygulaması
 
 Bu proje, Unsplash API'sini kullanarak basit bir arama uygulaması oluşturmak için React ile yapılmıştır. Bu uygulama, kullanıcıların anahtar kelimeye göre fotoğraf aramasını sağlar.
