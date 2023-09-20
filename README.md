@@ -36,5 +36,5 @@ Notlar <br>
 
 Gif'e Tıklayarak Siteyi Görüntüleyebilirsiniz.<br>
 
-<a href="[https://weatherjsama.netlify.app/](https://whatareyoulookingforinthiswebpage.netlify.app/)">![alt text]([https://media2.giphy.com/media/d7SnWNs1hyW2hNrFRn/giphy.gif?cid=6c09b9520964ab5e6550ea5a2eda8fa96b2297745a62e1db&rid=giphy.gif&ct=s](https://whatareyoulookingforinthiswebpage.netlify.app/))</a>
+<a href="[https://weatherjsama.netlify.app/](https://whatareyoulookingforinthiswebpage.netlify.app/)">![alt text]([https://www.google.com/search?q=live+gif&sca_esv=566929587&tbm=isch&sxsrf=AM9HkKlkpOLx93COlUZoqxpeZXJqv-QMew:1695216544890&source=lnms&sa=X&ved=2ahUKEwiTyebfpbmBAxXVSPEDHeoGABAQ_AUoAXoECAEQAw&biw=1920&bih=919&dpr=1#imgrc=Io-DpYJiEiQwbM])</a>
 
