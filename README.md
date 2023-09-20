@@ -30,4 +30,4 @@ Bu proje açık kaynaklıdır ve katkıda bulunmaktan mutluluk duyarız. Katkıd
 Notlar <br>
 -Bu proje, React ile yaptığım ilk projedir. <br>
 -Proje sayesinde React içinde, State ve porps kullanımı denendi. İmport ile componentler arasında bağlantı kuruldu ve component yapısı anlaşıldı.<br>
--<a href="https://www.youtube.com/@canboz">Bu projede Can Boz Kanalından Faydalanılmıştır. Teşekkürler</a><br>
+-<p>Bu projede <span><a href="https://www.youtube.com/@canboz">Can Boz</a></span> Kanalından Faydalanılmıştır. Teşekkürler</p>
