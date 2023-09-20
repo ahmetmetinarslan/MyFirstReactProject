@@ -18,7 +18,7 @@ function App() {
     // Axios ile Unsplash API'sine GET isteği gönderiyoruz.
     const response = await axios.get('https://api.unsplash.com/search/photos', {
       headers: {
-        Authorization: 'Client-ID GDBgUNOgh8lmd3ncFYl_Ht0jhtCN2wD0fBmKeVUXBJ0'
+        Authorization: 'Client-ID **YOUR ID**'
       },
       params: {
         query: term,
