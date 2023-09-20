@@ -30,7 +30,7 @@ Bu proje açık kaynaklıdır ve katkıda bulunmaktan mutluluk duyarız. Katkıd
 Notlar <br>
 -Bu proje, React ile yaptığım ilk projedir. <br>
 -Proje sayesinde React içinde, State ve porps kullanımı denendi. Import ile componentler arasında bağlantı kuruldu ve component yapısı anlaşıldı.<br>
-- Site build edilip canlıya alınmıştır. <a href="[https://www.youtube.com/@canboz](https://whatareyoulookingforinthiswebpage.netlify.app/)">Buraya</a> tıklayarak ulaşabilirsiniz.
+- Site build edilip canlıya alınmıştır. <a href="https://whatareyoulookingforinthiswebpage.netlify.app/">Buraya</a> tıklayarak ulaşabilirsiniz.<br>
 <p>Bu Projede <a href="https://www.youtube.com/@canboz">Can Boz</a> Youtube Kanalından Faydalanılmıştır. Teşekkürler</p>
 
 
