@@ -31,3 +31,10 @@ Notlar <br>
 -Bu proje, React ile yaptığım ilk projedir. <br>
 -Proje sayesinde React içinde, State ve porps kullanımı denendi. Import ile componentler arasında bağlantı kuruldu ve component yapısı anlaşıldı.<br>
 <p>Bu Projede <a href="https://www.youtube.com/@canboz">Can Boz</a> Youtube Kanalından Faydalanılmıştır. Teşekkürler</p>
+
+
+
+Gif'e Tıklayarak Siteyi Görüntüleyebilirsiniz.<br>
+
+<a href="[https://weatherjsama.netlify.app/](https://whatareyoulookingforinthiswebpage.netlify.app/)">![alt text]([https://media2.giphy.com/media/d7SnWNs1hyW2hNrFRn/giphy.gif?cid=6c09b9520964ab5e6550ea5a2eda8fa96b2297745a62e1db&rid=giphy.gif&ct=s](https://whatareyoulookingforinthiswebpage.netlify.app/))</a>
+
