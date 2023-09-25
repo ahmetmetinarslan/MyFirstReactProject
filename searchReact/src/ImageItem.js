@@ -7,3 +7,8 @@ export default function ImageItem({image}) {
     </div>
   )
 }
+
+/* 
+Bu bileşen, verilen bir "image" nesnesini kullanarak bir resmi görüntüler.
+"image.urls.small" prop, resmin küçük bir sürümünün URL'sini içerir.
+*/
